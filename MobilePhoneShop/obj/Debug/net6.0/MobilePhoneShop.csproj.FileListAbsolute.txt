@@ -1,0 +1,15 @@
+D:\VTCA\Project1\Project\MobilePhoneShop\bin\Debug\net6.0\MobilePhoneShop.exe
+D:\VTCA\Project1\Project\MobilePhoneShop\bin\Debug\net6.0\MobilePhoneShop.deps.json
+D:\VTCA\Project1\Project\MobilePhoneShop\bin\Debug\net6.0\MobilePhoneShop.runtimeconfig.json
+D:\VTCA\Project1\Project\MobilePhoneShop\bin\Debug\net6.0\MobilePhoneShop.dll
+D:\VTCA\Project1\Project\MobilePhoneShop\bin\Debug\net6.0\MobilePhoneShop.pdb
+D:\VTCA\Project1\Project\MobilePhoneShop\obj\Debug\net6.0\MobilePhoneShop.csproj.AssemblyReference.cache
+D:\VTCA\Project1\Project\MobilePhoneShop\obj\Debug\net6.0\MobilePhoneShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTCA\Project1\Project\MobilePhoneShop\obj\Debug\net6.0\MobilePhoneShop.AssemblyInfoInputs.cache
+D:\VTCA\Project1\Project\MobilePhoneShop\obj\Debug\net6.0\MobilePhoneShop.AssemblyInfo.cs
+D:\VTCA\Project1\Project\MobilePhoneShop\obj\Debug\net6.0\MobilePhoneShop.csproj.CoreCompileInputs.cache
+D:\VTCA\Project1\Project\MobilePhoneShop\obj\Debug\net6.0\MobilePhoneShop.dll
+D:\VTCA\Project1\Project\MobilePhoneShop\obj\Debug\net6.0\refint\MobilePhoneShop.dll
+D:\VTCA\Project1\Project\MobilePhoneShop\obj\Debug\net6.0\MobilePhoneShop.pdb
+D:\VTCA\Project1\Project\MobilePhoneShop\obj\Debug\net6.0\MobilePhoneShop.genruntimeconfig.cache
+D:\VTCA\Project1\Project\MobilePhoneShop\obj\Debug\net6.0\ref\MobilePhoneShop.dll
